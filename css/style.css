@@ -193,7 +193,7 @@ h3:hover {
 h4 {
   font-size: 1.2em;
   font-weight: bold;
-  padding-top: 7%;
+  padding-top: 5%;
   padding-left: 5%;
 }
 
@@ -273,8 +273,13 @@ ol li a:hover {
 /*** LOGO ***/
 
 p {
-  padding: 2%;
+  padding: 3%;
   line-height: 1.5;
+}
+
+.info {
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 /*** ABOUT ***/
